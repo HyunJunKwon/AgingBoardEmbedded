@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>MYPRIJ/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>203</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1023</ColumnWidth1><ColumnWidth2>273</ColumnWidth2><ColumnWidth3>68</ColumnWidth3></Build>
+      <TerminalIO/>
+      <Disassembly>
+        <MixedMode>1</MixedMode>
+        <CodeCovShow>1</CodeCovShow>
+        <InstrProfShow>1</InstrProfShow>
+      </Disassembly>
+    <Debug-Log><ColumnWidth0>17</ColumnWidth0><ColumnWidth1>1864</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-9061-15260</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>MYPRIJ</ExpandedNode><ExpandedNode>MYPRIJ/CMSIS</ExpandedNode><ExpandedNode>MYPRIJ/Output</ExpandedNode><ExpandedNode>MYPRIJ/StdPeriph</ExpandedNode><ExpandedNode>MYPRIJ/src</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-17551-15919</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-14187-15844</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\menu.c</Filename><XPos>0</XPos><YPos>60</YPos><SelStart>439</SelStart><SelEnd>439</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\menu.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>202</SelStart><SelEnd>202</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\control.c</Filename><XPos>0</XPos><YPos>96</YPos><SelStart>219</SelStart><SelEnd>219</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\control.h</Filename><XPos>0</XPos><YPos>102</YPos><SelStart>1275</SelStart><SelEnd>1275</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\main.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>137</SelStart><SelEnd>137</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\def_var.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>265</SelStart><SelEnd>265</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\button.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>933</SelStart><SelEnd>933</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\button.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>200</SelStart><SelEnd>200</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\lcd.c</Filename><XPos>0</XPos><YPos>81</YPos><SelStart>2048</SelStart><SelEnd>2048</SelEnd></Tab><ActiveTab>8</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\lcd.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>551</SelStart><SelEnd>551</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\timer.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>132</SelStart><SelEnd>132</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\timer.c</Filename><XPos>0</XPos><YPos>39</YPos><SelStart>273</SelStart><SelEnd>273</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\common.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>79</SelStart><SelEnd>79</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\setup.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>662</SelStart><SelEnd>662</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\setup.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>149</SelStart><SelEnd>149</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\gpio.h</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>82</SelStart><SelEnd>82</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\flash.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>140</SelStart><SelEnd>140</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\flash.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>735</SelStart><SelEnd>735</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\gpio_set.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>432</SelStart><SelEnd>432</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\oem\STM32F10x_StdPeriph_Lib_V3.3.0\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h</Filename><XPos>0</XPos><YPos>811</YPos><SelStart>41683</SelStart><SelEnd>41683</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\oem\STM32F10x_StdPeriph_Lib_V3.3.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h</Filename><XPos>0</XPos><YPos>51</YPos><SelStart>610</SelStart><SelEnd>610</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\util.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>208</SelStart><SelEnd>208</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\gdefine.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\delay.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>297</SelStart><SelEnd>297</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\oem\STM32F10x_StdPeriph_Lib_V3.3.0\Libraries\STM32F10x_StdPeriph_Driver\src\misc.c</Filename><XPos>0</XPos><YPos>135</YPos><SelStart>5276</SelStart><SelEnd>5276</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\NewAsing\Main\make\stm32f10x_flash.icf</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>408</SelStart><SelEnd>408</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\main.c</Filename><XPos>0</XPos><YPos>403</YPos><SelStart>13902</SelStart><SelEnd>13902</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\oem\STM32F10x_StdPeriph_Lib_V3.3.0\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\startup\iar\startup_stm32f10x_cl.s</Filename><XPos>0</XPos><YPos>128</YPos><SelStart>7373</SelStart><SelEnd>7373</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-05da1648><key>iaridepm.enu1</key></Toolbar-05da1648></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>658</Bottom><Right>294</Right><x>-2</x><y>-2</y><xscreen>13</xscreen><yscreen>79</yscreen><sizeHorzCX>6771</sizeHorzCX><sizeHorzCY>76181</sizeHorzCY><sizeVertCX>154167</sizeVertCX><sizeVertCY>636451</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>334</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>336</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>324012</sizeHorzCY><sizeVertCX>6771</sizeVertCX><sizeVertCY>76181</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

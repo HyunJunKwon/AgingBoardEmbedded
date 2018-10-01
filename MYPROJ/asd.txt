@@ -1,0 +1,75 @@
+함수 설명
+-----------------------------------------------------------
+Lcd_Display_Main(); // 로고, 나중에 로딩처럼 바꾸기
+
+Menu_Display();  타이머와 conti
+Menu_Run() : menu start와 같게?
+Menu_Mode_dis : 타이머와 콘티의 그 다음 단계를 보여주는 듯. setting disp 로
+----------------------------------------------------------
+typedef struct
+{
+    U08 bVersion;
+    U08 bRunMode;               // mode timer/continue
+    U08 bLotCount;              // lot count
+    U32 lModeTimerOnTime;
+    U32 lModeTimerOffTime;
+    U08 bReserved[21];
+} _SETUP;
+
+void Setup_GetConfig(void)
+{
+    U08 bData[sizeof(_SETUP)];
+
+    Flash_Read(bData, sizeof(_SETUP)); // 왜 [2]가 0x01로 왜 lotCnt 1로
+
+    memcpy(&stSetup, bData, sizeof(_SETUP));
+
+    if( stSetup.bVersion != 0xA1 )
+    {
+        memcpy(&stSetup, &oSetup_Default, sizeof(_SETUP));
+    }
+}
+
+
+
+main
+- munu 필요 (Menu_Display를 ini dip로 해도 될듯?)
+- lcd 필요
+- timer 필요
+- #include "stm32f10x_iwdg.h"
+- #include "button.h"
+#include "led.h"
+#include <stdio.h>
+#include <string.h>
+////#include "sys_set.h"
+#include "timer.h"
+//#include "main.h"
+#include "control.h"
+//#include "common.h"
+//#include "iwdt.h"
+#include "lcd.h"
+#include "button.h"
+#include "menu.h"
+#include "setup.h"
+#include "led.h"
+menu
+
+button
+
+timer
+
+lcd
+
+led
+
+
+
+
+
+
+
+
+
+
+
+
